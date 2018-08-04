@@ -1,0 +1,98 @@
+body {
+    width: 100%;
+    margin: auto;
+    z-index: 0;
+    
+    }
+   
+    .container {
+    width:960px;
+    margin: auto;
+    
+    }
+    
+    .header {
+    background:#ffffff;
+    width: 100%;
+    position:fixed;
+    z-index: 1;
+    
+    }
+    .logo {
+    float:left;
+    font-family:"Georgia";
+    background:#4aaaa5;
+    color:white;
+    justify-content: center;
+    }
+    a {
+    text-decoration: none;
+    }
+    li {
+    list-style: none;
+    float: left;
+    margin-left: 15px;
+    padding-top: 15px;
+    
+    }
+    .nav {
+    float: right;
+    
+    }
+    .h1 {
+    background:#4aaaa5;
+    color: white;
+    justify-content: flex-start;
+    z-index: 2;
+    }
+    .content {
+    margin: 0 auto;
+    width: 960px;
+    }
+    .wrapper {
+    
+    position: relative;
+    height: 700px;
+    float: center;
+    line-height: 200%;
+
+    }
+    #two {
+        color:red;
+        align-content: center;
+        
+    }
+   #textblock {
+       background: white;
+       width: 960px;
+       margin: auto;
+       
+          }
+    .buttons {
+        float: right
+        
+    }
+    
+    #form {margin: auto}
+    
+    img {
+        margin: 10px;
+        justify-content: center;
+    }
+    background {
+        z-index: 0;
+    }
+    .scroll {
+        overflow: scroll;
+    }
+    h2 {
+        color:#4aaaa5;
+        justify-content: center;
+
+    }
+    h1 {
+        justify-content: center;
+    }
+   text {
+       line-height: 200%;
+   }
